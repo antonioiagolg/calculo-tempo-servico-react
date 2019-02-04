@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.81387637.chunk.css",
-  "main.js": "/static/js/main.1566ea7d.chunk.js",
-  "main.js.map": "/static/js/main.1566ea7d.chunk.js.map",
-  "static/js/1.49e69435.chunk.js": "/static/js/1.49e69435.chunk.js",
-  "static/js/1.49e69435.chunk.js.map": "/static/js/1.49e69435.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.81387637.chunk.css.map": "/static/css/main.81387637.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.0f7a9fc81461c93ba8bbea3ced32d69c.js": "/precache-manifest.0f7a9fc81461c93ba8bbea3ced32d69c.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/calculo-tempo-servico-react/static/css/main.81387637.chunk.css",
+  "main.js": "/calculo-tempo-servico-react/static/js/main.7c2c5ecc.chunk.js",
+  "main.js.map": "/calculo-tempo-servico-react/static/js/main.7c2c5ecc.chunk.js.map",
+  "static/js/1.49e69435.chunk.js": "/calculo-tempo-servico-react/static/js/1.49e69435.chunk.js",
+  "static/js/1.49e69435.chunk.js.map": "/calculo-tempo-servico-react/static/js/1.49e69435.chunk.js.map",
+  "runtime~main.js": "/calculo-tempo-servico-react/static/js/runtime~main.31333e68.js",
+  "runtime~main.js.map": "/calculo-tempo-servico-react/static/js/runtime~main.31333e68.js.map",
+  "static/css/main.81387637.chunk.css.map": "/calculo-tempo-servico-react/static/css/main.81387637.chunk.css.map",
+  "index.html": "/calculo-tempo-servico-react/index.html",
+  "precache-manifest.fdac885bdcd9515e1f4f3285d26467af.js": "/calculo-tempo-servico-react/precache-manifest.fdac885bdcd9515e1f4f3285d26467af.js",
+  "service-worker.js": "/calculo-tempo-servico-react/service-worker.js"
 }
